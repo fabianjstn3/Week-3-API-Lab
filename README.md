@@ -1,6 +1,6 @@
-# Microservices Authentication System
+# API Development and Microservices
 
-This project implements a secure authentication system using a microservices architecture. It consists of two separate services:
+This project implements an authentication system using a microservices architecture. It consists of two separate services:
 
 1. **Auth Service**: Handles user registration, login, and token verification
 2. **Product Service**: Serves product data to authenticated users
